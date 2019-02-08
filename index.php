@@ -77,7 +77,7 @@
                 <div class="produtos_item col-md-3">
                     <img src="img/ironman.png" class="img-fluid col-md-3" alt="lançamentos" title="Ultimos lançamentos">
                     <div class="barraproduto col-md-12">
-                        <h2 class="col-md-12">Camisa - Homem de Ferro</h2>
+                        <h2 class="col-md-12">Camisa - Mascara Homem de Ferro</h2>
                         <a href="" class="detalhe offset-1 col-md-2">Detalhes</a></div>
                 </div>
 
@@ -91,13 +91,13 @@
                 <div class="produtos_item col-md-3">
                     <img src="img/spiderman.png" class="img-fluid col-md-3" alt="lançamentos" title="Ultimos lançamentos">
                     <div class="barraproduto col-md-12">
-                        <h2 class="col-md-12">Moletom - Homem Aranha</h2>
+                        <h2 class="col-md-12">Moletom - Uniforme Homem Aranha</h2>
                         <a href="" class="detalhe offset-1 col-md-2">Detalhes</a></div>
                 </div>
                 <div class="produtos_item col-md-3">
                      <img src="img/cap.png" class="img-fluid col-md-3" alt="lançamentos" title="Ultimos lançamentos">
                     <div class="barraproduto col-md-12">
-                        <h2 class="col-md-12">Camisa - Capitão America</h2>
+                        <h2 class="col-md-12">Camisa - Escudo Capitão America</h2>
                         <a href="" class="detalhe offset-1 col-md-2">Detalhes</a></div>
                 </div>
             </div>
@@ -112,29 +112,32 @@
         </div>
         <div class="container" id="produtos_itens">
             <div class="row">
+
                 <div class="produtos_item col-md-3">
-                    <img src="img/flash.png" class="img-fluid col-md-3" alt="Produtos" title="Camisa Flash">
-                    <div class="barraproduto">
-                        <h2>Camisa - Flash</h2>
-                        <a href="" class="detalhe">Comprar</a></div>
+                    <img src="img/flash.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Camisa - Raio flash </h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
+                </div>
+
+                <div class="produtos_item col-md-3">
+                    <img src="img/sonic.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Camisa - Armadura do Homem de Ferro</h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
+                </div>
+
+                <div class="produtos_item col-md-3">
+                    <img src="img/mario.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Moletom - Uniforme Homem Aranha</h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
                 </div>
                 <div class="produtos_item col-md-3">
-                    <img src="img/sonic.png" class="img-fluid col-md-3" alt="Produtos" title="Camisa Sonic">
-                    <div class="barraproduto">
-                        <h2>Camisa - Sonic</h2>
-                        <a href="" class="detalhe">Comprar</a></div>
-                </div>
-                <div class="produtos_item col-md-3">
-                    <img src="img/mario.png" class="img-fluid col-md-3" alt="lançamentos" title="Camisa Mario">
-                    <div class="barraproduto">
-                        <h2>Camisa - Mario</h2>
-                        <a href="" class="detalhe">Comprar</a></div>
-                </div>
-                <div class="produtos_item col-md-3">
-                    <img src="img/himym.png" class="img-fluid col-md-3" alt="lançamentos" title="Camisa HIMYM">
-                    <div class="barraproduto">
-                        <h2>Camisa - How I Met Your Mother</h2>
-                        <a href="" class="detalhe">Comprar</a></div>
+                    <img src="img/himym.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Camisa - Escudo Capitão America</h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
                 </div>
             </div>
         </div>
