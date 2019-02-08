@@ -75,6 +75,17 @@ a.detalhe{
     position: absolute;
 }
 
+@media screen and (min-width: 600px) {
+    div.barraproduto h2 {
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    div.barraproduto h2{
+        font-size: 20px;
+    }
+}
 .nav-tabs .nav-link.active,
 .nav-tabs .show > .nav-link {
     color: #fff;
@@ -103,12 +114,13 @@ div.produtos_item{
 }
 
 div.produtos_item h2{
-    font-size:19px;
+
     color: white;
     font-family: "Arial b", sans-serif;
     text-align: center;
     padding-top: 15px;
 }
+
 .carousel{
     background-color: #FFC800;
     padding-bottom: 20px;
