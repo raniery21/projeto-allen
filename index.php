@@ -116,27 +116,27 @@
                 <div class="produtos_item col-md-3">
                     <img src="img/flash.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
                     <div class="barraproduto col-md-12">
-                        <h2 class="col-md-12">Camisa - Raio flash </h2>
+                        <h2 class="col-md-12">Camisa - The flash<br>(Simbolo) </h2>
                         <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
                 </div>
 
                 <div class="produtos_item col-md-3">
                     <img src="img/sonic.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
                     <div class="barraproduto col-md-12">
-                        <h2 class="col-md-12">Camisa - Armadura do Homem de Ferro</h2>
+                        <h2 class="col-md-12">Camisa - Sonic<br>"You are too slow"</h2>
                         <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
                 </div>
 
                 <div class="produtos_item col-md-3">
                     <img src="img/mario.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
                     <div class="barraproduto col-md-12">
-                        <h2 class="col-md-12">Moletom - Uniforme Homem Aranha</h2>
+                        <h2 class="col-md-12">Camisa - Mario<br>UP!</h2>
                         <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
                 </div>
                 <div class="produtos_item col-md-3">
                     <img src="img/himym.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
                     <div class="barraproduto col-md-12">
-                        <h2 class="col-md-12">Camisa - Escudo Capitão America</h2>
+                        <h2 class="col-md-12">Camisa - How i Met Your Mother</h2>
                         <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
                 </div>
             </div>
