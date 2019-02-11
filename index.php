@@ -169,8 +169,32 @@
                 </div>
 
             </div>
-            </div>
         </div>
+
+        <footer>
+            <div class="container">
+                <div class="content" id="footer-sidebar">
+                    <div class="footer-widget">
+                        <a href="#" title="Site de vendas">
+                            <img src="img/logo.png" class="img-fluid" alt="Logo" title="Logo">
+                        </a>
+                        <p>
+                            Site focado em venda de Camisas
+                            personalizadas com estilos de
+                            Series, filmes e Jogos.
+                        </p>
+                    </div>
+
+                    <div class="footer-widget">
+                        <h4 class="widget_title">
+                            <span></span>Localização
+                        </h4>
+                    </div>
+
+                </div>
+            </div>
+        </footer>
+
         <script src="node_modules/jquery/dist/jquery.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
         <script src="js/main.js"></script>

@@ -2,173 +2,676 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d5c229-798d-4020-928a-b82b86432311" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.theme.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.theme.green.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.green.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.theme.green.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.green.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.animate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.browserslistrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.eslintignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.github/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.github/CODEOWNERS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.stylelintignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.stylelintignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/.stylelintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/.stylelintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/build/ship.sh" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/build/ship.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/nuget/MyGet.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/nuget/MyGet.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/nuget/bootstrap.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/nuget/bootstrap.nuspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/nuget/bootstrap.sass.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/nuget/bootstrap.sass.nuspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/site/docs/4.2/examples/.stylelintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/site/docs/4.2/examples/.stylelintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper-utils.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/esm/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/popper-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/popper-utils.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/popper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper-utils.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/poppper.js.flow" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/dist/umd/poppper.js.flow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/index.js.flow" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/index.js.flow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/popper.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/popper.js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/.idea/allen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/.idea/htdocs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/armadura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/cap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/flash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/gta5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/harry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/himym.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/instragram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/ironman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/mario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/sonic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/spiderman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/starlabs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/img/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/include/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/js/owl.animate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/js/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.babelrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.github/CODEOWNERS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.github/ISSUE_TEMPLATE/bug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.github/ISSUE_TEMPLATE/feature.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.github/SUPPORT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.stylelintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.stylelintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/build-plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/change-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/generate-sri.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/rollup.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/ship.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/svgo.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/build/vnu-jar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/alert.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/button.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/carousel.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/collapse.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/dropdown.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/modal.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/popover.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/scrollspy.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/tab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/toast.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/tooltip.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/dist/util.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/src/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/browsers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/integration/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/integration/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/integration/rollup.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/unit/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/dropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/popover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/scrollspy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/tab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/toast.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/js/tests/visual/tooltip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/nuget/MyGet.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/nuget/bootstrap.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/nuget/bootstrap.sass.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/package.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/breakpoints.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/browser-bugs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/browser-features.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/colors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/core-team.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/docs-versions.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/examples.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/grays.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/nav.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/theme-colors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_data/translations.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/bugify.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/callout-danger-async-methods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/callout-info-mediaqueries-breakpoints.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/callout-info-prefersreducedmotion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/callout-warning-color-assistive-technologies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/callout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/docs-navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/docs-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/favicons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/bootstrap-stack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/bootstrap.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/import.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/lightning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/placeholder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/slack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/icons/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/skippy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_includes/stylesheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_layouts/docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_layouts/examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/_layouts/simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/about/brand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/about/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/about/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/about/team.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/about/translations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/brand/bootstrap-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/brand/bootstrap-punchout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/brand/bootstrap-social-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/brand/bootstrap-social.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/brand/bootstrap-solid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/css/docs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/css/docs.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/bootstrap-themes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/bootstrap-themes@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/album.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/album@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/blog@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/carousel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/carousel@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/checkout@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/cover@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/dashboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/dashboard@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/floating-labels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/floating-labels@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/grid@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/jumbotron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/jumbotron@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbar-bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbar-bottom@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbar-fixed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbar-fixed@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbar-static.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbar-static@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/navbars@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/offcanvas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/offcanvas@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/pricing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/pricing@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/product@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/sign-in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/sign-in@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/starter-template.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/starter-template@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/sticky-footer-navbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/sticky-footer-navbar@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/sticky-footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/examples/sticky-footer@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/mstile-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/mstile-310x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/mstile-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/mstile-70x70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/img/favicons/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/docs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/src/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/src/ie-emulation-modes-warning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/src/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/vendor/anchor.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/vendor/bs-custom-file-input.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/vendor/clipboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/js/vendor/jquery-slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_ads.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_algolia.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_anchor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_brand.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_browser-bugs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_callouts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_clipboard-js.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_component-examples.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_placeholder-img.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_skippy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/assets/scss/docs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/browser-bugs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/alerts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/badge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/breadcrumb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/button-group.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/buttons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/card.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/carousel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/collapse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/dropdowns.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/forms.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/input-group.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/jumbotron.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/list-group.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/media-object.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/modal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/navs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/pagination.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/popovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/progress.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/scrollspy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/spinners.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/toasts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/components/tooltips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/content/code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/content/figures.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/content/images.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/content/reboot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/content/tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/content/typography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/.stylelintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/album/album.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/album/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/blog/blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/carousel/carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/carousel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/checkout/form-validation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/checkout/form-validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/checkout/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/cover/cover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/cover/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/dashboard/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/dashboard/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/dashboard/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/floating-labels/floating-labels.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/floating-labels/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/grid/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/grid/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/jumbotron/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/jumbotron/jumbotron.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/navbar-bottom/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/navbar-fixed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/navbar-fixed/navbar-top-fixed.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/navbar-static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/navbar-static/navbar-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/navbars/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/navbars/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/offcanvas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/offcanvas/offcanvas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/offcanvas/offcanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/pricing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/pricing/pricing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/product/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/product/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/sign-in/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/sign-in/signin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/starter-template/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/starter-template/starter-template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/sticky-footer-navbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/sticky-footer-navbar/sticky-footer-navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/sticky-footer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/examples/sticky-footer/sticky-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/extend/approach.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/extend/icons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/extend/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/accessibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/best-practices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/browsers-devices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/build-tools.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/contents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/download.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/javascript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/theming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/getting-started/webpack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/layout/grid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/layout/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/layout/utilities-for-layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/migration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/borders.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/clearfix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/close-icon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/colors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/display.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/embed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/flex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/float.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/image-replacement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/overflow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/position.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/screenreaders.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/shadows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/sizing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/spacing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/text.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/vertical-align.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/4.2/utilities/visibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/docs/versions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/bootstrap/site/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/dist/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/dist/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/dist/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/parseXML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/var/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/var/nonce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/var/rquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/ajax/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/attributes/attr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/attributes/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/attributes/prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/attributes/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/attributes/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/callbacks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/DOMEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/camelCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/nodeName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/parseHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/ready-no-deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/ready.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/readyException.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/stripAndCollapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/toType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/addGetHookIf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/adjustCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/curCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/showHide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/var/cssExpand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/var/getStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/var/rboxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/css/var/swap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/data/Data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/data/var/acceptData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/data/var/dataPriv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/data/var/dataUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/deferred/exceptionHook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/dimensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/effects/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/effects/animatedSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/event/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/event/alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/event/focusin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/event/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/event/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/exports/amd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/exports/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/buildFragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/getAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/var/rcheckableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/manipulation/wrapMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/queue/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/selector-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/selector-sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/serialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/traversing/findFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/traversing/var/dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/traversing/var/siblings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/arr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/class2type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/concat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/documentElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/fnToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/getProto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/hasOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/isFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/isWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/pnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/push.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/rcssNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/var/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/jquery/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/esm/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/dist/umd/poppper.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-allen/node_modules/popper.js/package.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -181,8 +684,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="166" column="82" selection-start-line="166" selection-start-column="82" selection-end-line="166" selection-end-column="82" />
+            <state relative-caret-position="192">
+              <caret line="177" column="57" selection-start-line="177" selection-start-column="57" selection-end-line="177" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -190,8 +693,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+            <state relative-caret-position="461">
+              <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -225,6 +728,7 @@
       <find>barraproduto</find>
       <find>box</find>
       <find>navegac</find>
+      <find>img-f</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -259,6 +763,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,7 +785,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,17 +837,18 @@
       <workItem from="1549548710573" duration="5804000" />
       <workItem from="1549628807827" duration="11247000" />
       <workItem from="1549836473494" duration="2875000" />
+      <workItem from="1549900085538" duration="1276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124764000" />
+    <option name="totallyTimeSpent" value="126040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -420,15 +925,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="166" column="82" selection-start-line="166" selection-start-column="82" selection-end-line="166" selection-end-column="82" />
+        <state relative-caret-position="192">
+          <caret line="177" column="57" selection-start-line="177" selection-start-column="57" selection-end-line="177" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        <state relative-caret-position="461">
+          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
         </state>
       </provider>
     </entry>
