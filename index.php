@@ -139,6 +139,36 @@
                         <h2 class="col-md-12">Camisa - How i Met Your Mother</h2>
                         <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
                 </div>
+
+                <div class="produtos_item col-md-3">
+                    <img src="img/starlabs.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Moletom - Star Laboratories (The flash)</h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
+                </div>
+
+                <div class="produtos_item col-md-3">
+                    <img src="img/arrow.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Camisa - Arqueiro Verde (Arrow)</h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
+                </div>
+
+                <div class="produtos_item col-md-3">
+                    <img src="img/gta5.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Camisa - Grand Theft Auto V (GTA5)</h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
+                </div>
+
+                <div class="produtos_item col-md-3">
+                    <img src="img/harry.png" class="img-fluid col-md-3" alt="Produtos" title=Produto>
+                    <div class="barraproduto col-md-12">
+                        <h2 class="col-md-12">Camisa - Harry Potter<br>"It's LeviOsa"</h2>
+                        <a href="" class="detalhe offset-1 col-md-2">Comprar</a></div>
+                </div>
+
+            </div>
             </div>
         </div>
         <script src="node_modules/jquery/dist/jquery.js"></script>
